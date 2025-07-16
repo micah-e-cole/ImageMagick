@@ -1,0 +1,10 @@
+How to run the bash script
+
+Install required libraries:
+You will need to have ImageMagick installed, open your terminal
+Install on macOS using Homebrew: brew update && brew install imagemagick
+
+Steps:
+1. Check to make sure the resize_images.sh file is in the folder you want to work from
+2. With the resize_images.sh file in your current working directory, run this command to give the script execeute permissions: chmod +x resize_images.sh
+3. Now that the script has execute permissions, use the following to run the script: ./resize_images.sh
