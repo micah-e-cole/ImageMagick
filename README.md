@@ -3,7 +3,7 @@ Using the open-source software [ImageMagick](https://imagemagick.org/index.php) 
 
 ## How to use
 
-(Note: This assumes you are using macOS. For instrucitons using Linux or Windows you will need to look for further documentation on implementing ImageMagick on your OS.)
+(Note: This assumes you are using macOS. For instructions using Linux or Windows you will need to look for further documentation on implementing ImageMagick on your OS.)
 
 1. Install [Homebrew](https://brew.sh/) if not already installed, using the terminal/CLI: 
 
